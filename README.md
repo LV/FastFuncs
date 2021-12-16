@@ -12,10 +12,10 @@ This project is in fulfillment of the [CPSC 312 2021W1 project requirements](htt
 
 Our team is:
 
-+ Philippe Solodov (25117292): SoloDev
-+ Sam Ko (98263569): K-O
-+ Scott Banducci (80557069): Bandersnatch
-+ Luis Victoria (78827979): Tor
++ Philippe Solodov](https://github.com/philippeitis)
++ Sam Ko
++ Scott Banducci
++ Luis Victoria
 
 We call ourselves: Functionator.
 
@@ -160,4 +160,3 @@ In this section, we go over the Prolog features that we have learned to use. Fur
 
 ## RUBRIC:
 https://steven-wolfman.github.io/cpsc-312-website/project.html#final-project-rubric
-
