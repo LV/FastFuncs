@@ -12,7 +12,7 @@ This project is in fulfillment of the [CPSC 312 2021W1 project requirements](htt
 
 Our team is:
 
-+ Philippe Solodov](https://github.com/philippeitis)
++ [Philippe Solodov](https://github.com/philippeitis)
 + Sam Ko
 + Scott Banducci
 + Luis Victoria
